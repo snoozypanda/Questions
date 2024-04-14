@@ -1,4 +1,4 @@
-list=[9]
+list=[93]
 
 temp=[]
 n=len(list)
